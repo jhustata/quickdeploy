@@ -1,3 +1,7 @@
+- abikesa/quickdeploy was forked from this repo
+- but its now ahead & the default
+- plan to delete this repo & then fork abikesa/quickdeploy
+
 ```js
 webApp > master > assets > js > script.js
 ```
